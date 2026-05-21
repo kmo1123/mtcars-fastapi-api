@@ -137,7 +137,7 @@ gcloud run deploy mtcars-fastapi \
   --memory 512Mi
 ```
 
-**Deployed API URL:** `https://mtcars-fastapi-<hash>-uc.a.run.app`
+**Deployed API URL:** `https://mtcars-fastapi-<hash>-uc.a.run.app/docs`
 
 ## Rebuild the Model
 
